@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Compose App</string>
+    <string name="name_details">Jon Doe</string>
+    <string name="message">Android Beginner</string>
+    <string name="contact_number">(+91) 1234567890</string>
+    <string name="email_details">jon.doe@android.com</string>
+</resources>
